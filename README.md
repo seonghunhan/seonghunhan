@@ -82,3 +82,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghunhan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
+--------------------------------------------------------------------------------------
+
+
+
+프로젝트목록 | 일자 | 사용기술 
+------------|------|-------
+금융상품서비스 | 2023 | Node
+금융추천시스템 | 2023 | Vue 
+
